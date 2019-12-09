@@ -1,0 +1,98 @@
+.body{
+    background-color: black;
+}
+
+.flex-container{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:50px;
+}
+
+
+.welcome{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 100%;
+    text-align: center;
+}
+
+.image{
+    
+    display: block;
+    
+}
+
+.centered {
+    text-align: center;
+    top: 20%;
+    left: 32%;
+    font-size: 300%;
+    color:black;
+    font-family: 'Sacramento', cursive;
+    z-index: 999;
+    width: 100%;
+  }
+
+.work{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+
+
+.footer {
+    position: fixed;
+    margin: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color:#ede6e4;
+    color: black;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    
+  }
+
+  .container-fluid{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    justify-content: center;
+    
+  }
+
+
+  .btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+.title{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    
+}
+
+.work-box1{
+  background-image: url(persona.png);
+  background-size: cover;
+  min-height: 400px;
+}
+
+.work-box1:hover{
+  background-color: black;
+}
+
+.worktitle{
+  color: black;
+  position: absolute;
+  bottom: 0px;
+}
