@@ -91,8 +91,34 @@
   background-color: black;
 }
 
+.work-box2{
+  background-image: url(gravity.png);
+  background-size: cover;
+  min-height: 400px;
+  
+}
+
+.work-box2:hover{
+  background-color: black;
+}
+
+.work-box3{
+  background-color: "6200EE";
+  background-size: cover;
+  min-height: 400px;
+
+}
+
 .worktitle{
-  color: black;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+}
+
+.place {
+  color: white;
   position: absolute;
   bottom: 0px;
+  left: 20px;
 }
