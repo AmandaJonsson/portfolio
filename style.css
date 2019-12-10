@@ -63,6 +63,14 @@
     
   }
 
+  .desc{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
 
   .btn {
     border: none;
@@ -121,4 +129,28 @@
   position: absolute;
   bottom: 0px;
   left: 20px;
+}
+
+.image{
+  background-image: url(persona.png);
+  background-size: cover;
+  min-height: 400px;
+}
+
+.image2{
+  background-image: url(persona1.JPG);
+  background-size: cover;
+  min-height: 400px;
+  -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.image3{
+  background-image: url(persona2.JPG);
+  background-size: cover;
+  min-height: 400px;
+
 }
