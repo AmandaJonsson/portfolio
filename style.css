@@ -90,7 +90,7 @@
 }
 
 .work-box1{
-  background-image: url(persona.png);
+  background-image: url(personamin.JPG);
   background-size: cover;
   min-height: 400px;
 }
@@ -100,7 +100,7 @@
 }
 
 .work-box2{
-  background-image: url(gravity.png);
+  background-image: url(gravitymin.jpg);
   background-size: cover;
   min-height: 400px;
   
@@ -111,11 +111,17 @@
 }
 
 .work-box3{
-  background-color: "6200EE";
+  background-image: url(android1.jpg);
   background-size: cover;
   min-height: 400px;
-
 }
+.work-box4{
+  background-image: url(museum.jpg);
+  background-size: cover;
+  min-height: 400px;
+  
+}
+
 
 .worktitle{
   color: white;
@@ -153,4 +159,27 @@
   background-size: cover;
   min-height: 400px;
 
+}
+
+.gravity1{
+    background-image: url(gravity1.JPG);
+    background-size: cover;
+    min-height: 400px;
+}
+.gravity2{
+  background-image: url(gravity2.JPG);
+  background-size: cover;
+  min-height: 400px;
+}
+.gravity3{
+  background-image: url(gravity3.jpg);
+  background-size: cover;
+  min-height: 400px;
+}
+
+.android{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
