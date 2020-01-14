@@ -138,13 +138,13 @@
 }
 
 .image{
-  background-image: url(persona.png);
+  background-image: url(personamin.JPG);
   background-size: cover;
   min-height: 400px;
 }
 
 .image2{
-  background-image: url(persona1.JPG);
+  background-image: url(persona2.JPG);
   background-size: cover;
   min-height: 400px;
   -webkit-transform: rotate(90deg);
@@ -155,7 +155,7 @@
 }
 
 .image3{
-  background-image: url(persona2.JPG);
+  background-image: url(persona1min.JPG);
   background-size: cover;
   min-height: 400px;
 
