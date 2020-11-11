@@ -1,0 +1,19 @@
+.about{
+    font-size: 18px;
+}
+
+
+.contact{
+    text-transform: uppercase;
+    color: #a0887c;
+    font-size: 16px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+.mail{
+    color: black;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
