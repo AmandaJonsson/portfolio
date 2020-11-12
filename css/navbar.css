@@ -23,6 +23,10 @@ nav{
       font-size: 14px;
   }
 
+  .nav-links{
+      display: none;
+  }
+
   .nav-links li{
       list-style: none;
   }
